@@ -1036,7 +1036,7 @@ p {
 }
 
 .site-footer {
-    background: #241416;
+    background: var(--wine);
     color: var(--cream);
     padding: 39px 8.2% 25px;
     display: grid;
