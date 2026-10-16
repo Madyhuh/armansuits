@@ -7,7 +7,7 @@
   --gold: #b69a72;
   --muted: #8f8175;
   --line: rgba(90, 69, 54, 0.16);
-  --display: 'Italiana', Georgia, serif;
+  --display: 'Bodoni Moda', Georgia, serif;
   --sans: 'DM Sans', Arial, sans-serif;
   --times: 'Times New Roman', Times, serif;
 }
@@ -1036,7 +1036,7 @@ p {
 }
 
 .site-footer {
-    background: var(--wine);
+    background: var(--ink);
     color: var(--cream);
     padding: 39px 8.2% 25px;
     display: grid;
